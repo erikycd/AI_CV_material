@@ -1,5 +1,6 @@
 # Artificial intelligence (AI) and Computer vision (CV) material
-The keys for a new "Hello World" concept
+The keys for a new "Hello World" concept.
+The corresponding credits are shown within each document.
 
 ## Table of Contents
 
@@ -17,8 +18,9 @@ The keys for a new "Hello World" concept
     - [data.table]
     - [xts]
 - [Getting ready]
-    - [Resume and cover letter guide]
+    - [Resume and cover letter guide](https://github.com/erikycd/AI_CV_material/blob/main/Getting%20ready/Resume%20and%20cover%20letter%20guide.pdf)
     - [Top 100 interview questions](https://github.com/erikycd/AI_CV_material/blob/main/Getting%20ready/Top%20100%20python%20interview%20questions.pdf)
-    - [Machine Learning youtube courses]
-    - [ML interview cheatsheet]
-    - [ML interview cheatsheet 2]
+    - [Machine Learning youtube courses](https://github.com/erikycd/AI_CV_material/blob/main/Getting%20ready/Machine%20Learning%20youtube%20courses.pdf)
+    - [ML interview cheatsheet](https://github.com/erikycd/AI_CV_material/blob/main/Getting%20ready/ML%20interview%20cheatsheet.pdf)
+    - [ML interview cheatsheet 2](https://github.com/erikycd/AI_CV_material/blob/main/Getting%20ready/ML%20interview%20cheatsheet%202.pdf)
+    - [ML infographics](https://github.com/erikycd/AI_CV_material/blob/main/Getting%20ready/ML%20infographics.pdf)
