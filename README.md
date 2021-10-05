@@ -18,7 +18,7 @@ The keys for a new "Hello World" concept
     - [xts]
 - [Getting ready]
     - [Resume and cover letter guide]
-    - [Top 100 interview questions]
+    - [Top 100 interview questions](https://github.com/erikycd/AI_CV_material/blob/main/Getting%20ready/Top%20100%20python%20interview%20questions.pdf)
     - [Machine Learning youtube courses]
     - [ML interview cheatsheet]
     - [ML interview cheatsheet 2]
