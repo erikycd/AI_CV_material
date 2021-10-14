@@ -7,11 +7,12 @@ The corresponding credits are shown within each document.
 - [CNN]
     - [A most completely chart of Neural Networks]
 - [Natural Language Processing]
-    - [The Super Duper NLP Repo]
-    - [Natural Language Processing with Python]
+    - [The Super Duper NLP Repo](https://github.com/erikycd/AI_CV_material/blob/main/NLP/The%20Super%20Duper%20NLP%20Repo.pdf)
+    - [Natural Language Processing with Python](https://github.com/erikycd/AI_CV_material/blob/main/NLP/Natural%20Language%20Processing%20with%20Python.pdf)
+    - [iNeuron Handbook](https://github.com/erikycd/AI_CV_material/blob/main/NLP/iNeuron%20handbook.pdf)
 - [Python]
     - [Python Basics]
-    - [Pandas Basics])
+    - [Pandas Basics]
     - [Pandas]
 - [Getting ready]
     - [Resume and cover letter guide](https://github.com/erikycd/AI_CV_material/blob/main/Getting%20ready/Resume%20and%20cover%20letter%20guide.pdf)
