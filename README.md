@@ -14,7 +14,7 @@ The corresponding credits are shown within each document.
     - [Best cheatsheet collection](https://github.com/erikycd/AI_CV_material/blob/main/python/Cheatsheet%20collection.pdf)
     - [Conda cheatsheet](https://github.com/erikycd/AI_CV_material/blob/main/python/Conda-cheatsheet.pdf)
     - [Pandas data wrangling](https://github.com/erikycd/AI_CV_material/blob/main/python/Pandas%20data%20wrangling.pdf)
-    - [Python cheatsheet](https://github.com/erikycd/AI_CV_material/blob/main/python/Python%20cheatsheet.pdf)
+    - [Python guide](https://github.com/erikycd/AI_CV_material/blob/main/python/Python%20cheatsheet.pdf)
     - [Statistics](https://github.com/erikycd/AI_CV_material/blob/main/python/Statistics%20cheatsheet.pdf)
 - [Getting ready]
     - [Resume and cover letter guide](https://github.com/erikycd/AI_CV_material/blob/main/Getting%20ready/Resume%20and%20cover%20letter%20guide.pdf)
