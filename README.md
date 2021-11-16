@@ -11,6 +11,7 @@ The corresponding credits are shown within each document.
     - [Natural Language Processing with Python](https://github.com/erikycd/AI_CV_material/blob/main/NLP/Natural%20Language%20Processing%20with%20Python.pdf)
     - [iNeuron Handbook](https://github.com/erikycd/AI_CV_material/blob/main/NLP/iNeuron%20handbook.pdf)
 - [Python]
+    - [Best cheatsheet collection](https://github.com/erikycd/AI_CV_material/blob/main/python/Cheatsheet%20collection.pdf)
     - [Conda cheatsheet](https://github.com/erikycd/AI_CV_material/blob/main/python/Conda-cheatsheet.pdf)
     - [Pandas data wrangling](https://github.com/erikycd/AI_CV_material/blob/main/python/Pandas%20data%20wrangling.pdf)
     - [Python cheatsheet](https://github.com/erikycd/AI_CV_material/blob/main/python/Python%20cheatsheet.pdf)
