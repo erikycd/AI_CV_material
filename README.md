@@ -5,7 +5,11 @@ The corresponding credits are shown within each document.
 ## Table of Contents
 
 - [CNN]
-    - [A most completely chart of Neural Networks]
+    - [CNN cheatsheet](https://github.com/erikycd/AI_CV_material/blob/main/CNN/CNN%20cheetsheet.pdf)
+    - [Intro to deep learning](https://github.com/erikycd/AI_CV_material/blob/main/CNN/Intro%20to%20deep%20learning.pdf)
+    - [Neural networks by Kriesel](https://github.com/erikycd/AI_CV_material/blob/main/CNN/Neural%20Networks%20-%20David%20Kriesel.pdf)
+    - [Applications of deep neural networks by Heaton](https://github.com/erikycd/AI_CV_material/blob/main/CNN/Applications%20of%20Deep%20Neural%20Networks%20-%20Jeff%20Heaton.pdf)
+    - [Machine learning yearing by Andrew Ng](https://github.com/erikycd/AI_CV_material/blob/main/CNN/Machine%20Learning%20Yearing%20-%20Andrew%20NG.pdf)
 - [Natural Language Processing]
     - [The Super Duper NLP Repo](https://github.com/erikycd/AI_CV_material/blob/main/NLP/The%20Super%20Duper%20NLP%20Repo.pdf)
     - [Natural Language Processing with Python](https://github.com/erikycd/AI_CV_material/blob/main/NLP/Natural%20Language%20Processing%20with%20Python.pdf)
