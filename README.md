@@ -3,7 +3,7 @@ The keys for a new "Hello World" concept.
 The corresponding credits are shown within each document.
 
 <p align="center">
-  <img width="34.3%" src="https://raw.githubusercontent.com/erikycd/AI_CV_material/main/Datascience%20landscape.jpg">
+  <img width="70.3%" src="https://raw.githubusercontent.com/erikycd/AI_CV_material/main/Datascience%20landscape.jpg">
 </p>
 
 ## Table of Contents
