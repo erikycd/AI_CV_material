@@ -20,6 +20,7 @@ The corresponding credits are shown within each document.
     - [iNeuron Handbook](https://github.com/erikycd/AI_CV_material/blob/main/NLP/iNeuron%20handbook.pdf)
 - [Python]
     - [Best cheatsheet collection](https://github.com/erikycd/AI_CV_material/blob/main/python/Cheatsheet%20collection.pdf)
+    - [Comprehensive python cheatsheet](https://github.com/erikycd/AI_CV_material/blob/main/python/Comprehensive%20python%20cheatsheet.pdf)
     - [Conda cheatsheet](https://github.com/erikycd/AI_CV_material/blob/main/python/Conda-cheatsheet.pdf)
     - [Pandas data wrangling](https://github.com/erikycd/AI_CV_material/blob/main/python/Pandas%20data%20wrangling.pdf)
     - [Python guide](https://github.com/erikycd/AI_CV_material/blob/main/python/Python%20cheatsheet.pdf)
