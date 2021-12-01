@@ -23,8 +23,10 @@ The corresponding credits are shown within each document.
     - [Comprehensive python cheatsheet](https://github.com/erikycd/AI_CV_material/blob/main/python/Comprehensive%20python%20cheatsheet.pdf)
     - [Conda cheatsheet](https://github.com/erikycd/AI_CV_material/blob/main/python/Conda-cheatsheet.pdf)
     - [Pandas data wrangling](https://github.com/erikycd/AI_CV_material/blob/main/python/Pandas%20data%20wrangling.pdf)
+    - [Computation and dataframes with pandas](https://github.com/erikycd/AI_CV_material/blob/main/python/Computation%20and%20dataframes.pdf)
     - [Python guide](https://github.com/erikycd/AI_CV_material/blob/main/python/Python%20cheatsheet.pdf)
     - [Statistics](https://github.com/erikycd/AI_CV_material/blob/main/python/Statistics%20cheatsheet.pdf)
+    - [Scikit plot guide](https://github.com/erikycd/AI_CV_material/blob/main/python/scikit-plot-readthedocs-io-en-stable.pdf)
 - [Getting ready]
     - [Resume and cover letter guide](https://github.com/erikycd/AI_CV_material/blob/main/Getting%20ready/Resume%20and%20cover%20letter%20guide.pdf)
     - [Top 100 interview questions](https://github.com/erikycd/AI_CV_material/blob/main/Getting%20ready/Top%20100%20python%20interview%20questions.pdf)
